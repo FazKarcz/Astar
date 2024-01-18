@@ -1,0 +1,4 @@
+﻿  astar.cpp
+C:\Users\cubac\Desktop\gwiazda\astar\astar\astar.cpp(50,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\cubac\Desktop\gwiazda\astar\astar\astar.cpp(50,53): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  astar.vcxproj -> C:\Users\cubac\Desktop\gwiazda\astar\Debug\astar.exe
